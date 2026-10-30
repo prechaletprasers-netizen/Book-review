@@ -1,0 +1,95 @@
+.hero-bg1 {
+  background-color: #f7e2c8;
+}
+
+.hero-bg11 {
+  background-color: #f5e7d3;
+}
+
+
+.hero-bg2 {
+  background-color: #ffd8ae;
+}
+
+.hero-bg3 {
+  background-color: #3b9793;
+}
+
+.hero-bg4 {
+  background-color: #f7ede6;
+;
+}
+
+.font1 {
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.font2 {
+  font-family: "Taviraj", serif;
+  font-weight: 600;
+  font-style: normal;
+  text-indent: 30px;
+}
+
+.font3 {
+  font-family: "Sriracha", cursive;
+  font-weight: 500;
+  font-style: normal;
+}
+
+p {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-indent: 30px;
+}
+
+.chabg1 {
+  background-color: #ffcfc8;
+  color: #88212a;
+}
+
+.chabg2 {
+  background-color: #fccc94;
+  color: #833b0b;
+}
+
+.chabg3 {
+  background-color: #9fd9e0;
+  color: #164e6e;
+}
+
+.chabg4 {
+  background-color: #ffd98e;
+  color: #72471e;
+}
+
+.chabg5 {
+  background-color: #acebb4;
+  color: #135041;
+}
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px;
+}
+
+.textcol1 {
+  color: #205e77;
+}
+
+.textcol2 {
+  color: #ffffff;
+}
+
+.textcol3 {
+  color: #502b20;
+}
+
+.fontsize1 {
+    font-size: 20px;
+}
